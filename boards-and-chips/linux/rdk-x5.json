@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "rdk-x5",
+  "platformId": "linux",
+  "boardSymbol": "RDK_X5",
+  "sdkRequirements": [
+    {
+      "sdk": "tuyaopen",
+      "branch": "master"
+    }
+  ],
+  "peripheralPatterns": {},
+  "links": {
+    "schematic": null,
+    "datasheet": null,
+    "productPage": null
+  },
+  "source": {
+    "repo": "https://github.com/tuya/TuyaOpen/tree/master/boards/LINUX/RDK_X5"
+  },
+  "expansionPins": [],
+  "peripheralGroups": {},
+  "runtime": {
+    "runMode": "cross-deploy",
+    "artifact": "elf",
+    "arch": "aarch64",
+    "deploy": {
+      "defaultRemoteDir": "~/tuyaopen-apps"
+    }
+  }
+}
