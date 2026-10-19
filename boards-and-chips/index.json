@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "domain": "boardsAndChips",
-  "publishedAt": "2026-10-19T12:28:03Z",
+  "publishedAt": "2026-10-19T12:31:00Z",
   "items": [
     {
       "id": "tuya-t5-e1",
@@ -1112,7 +1112,6 @@
         "en": "RDK X5",
         "zh-CN": "RDK X5"
       },
-      "brand": "嘀拍",
       "manufacturer": {
         "en": "D-Robotics",
         "zh-CN": "地瓜机器人"
