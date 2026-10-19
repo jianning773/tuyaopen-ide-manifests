@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "domain": "boardsAndChips",
-  "publishedAt": "2026-09-14T07:29:14Z",
+  "publishedAt": "2026-10-19T03:16:07Z",
   "items": [
     {
       "id": "tuya-t5-e1",
@@ -1073,6 +1073,41 @@
         "url": "images/dshanpi-a1/dshanpi-a1.png"
       },
       "detailUrl": "boards-and-chips/linux/dshanpi-a1.json",
+      "published": true,
+      "sdks": [
+        "tuyaopen"
+      ]
+    },
+    {
+      "id": "rdk-x5",
+      "name": {
+        "en": "RDK X5",
+        "zh-CN": "RDK X5"
+      },
+      "brand": {
+        "en": "D-Robotics",
+        "zh-CN": "地瓜机器人"
+      },
+      "manufacturer": {
+        "en": "D-Robotics",
+        "zh-CN": "地瓜机器人"
+      },
+      "platformId": "linux",
+      "variantId": "linux",
+      "chip": "X5",
+      "summary": {
+        "en": "RDK X5 Module with its carrier board, running Ubuntu AArch64. Cross-compile TuyaOpen applications on the host, then deploy the ELF over SSH. Start with the IoT Switch demo.",
+        "zh-CN": "RDK X5 Module 核心板与配套载板，运行 Ubuntu AArch64。在主机交叉编译 TuyaOpen 应用，通过 SSH 部署 ELF，可从 IoT 开关示例开始。"
+      },
+      "tags": [
+        "linux",
+        "ubuntu",
+        "sbc"
+      ],
+      "image": {
+        "url": "images/rdk-x5/rdk-x5.jpg"
+      },
+      "detailUrl": "boards-and-chips/linux/rdk-x5.json",
       "published": true,
       "sdks": [
         "tuyaopen"
