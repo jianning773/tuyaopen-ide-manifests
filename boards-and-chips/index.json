@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "domain": "boardsAndChips",
-  "publishedAt": "2026-10-19T12:16:30Z",
+  "publishedAt": "2026-10-19T12:28:03Z",
   "items": [
     {
       "id": "tuya-t5-e1",
@@ -1130,7 +1130,7 @@
         "sbc"
       ],
       "image": {
-        "url": "images/rdk-x5-board/rdk-x5-board.png"
+        "url": "images/rdk-x5-board/rdk-x5-board.jpg"
       },
       "detailUrl": "boards-and-chips/linux/rdk-x5-board.json",
       "published": true,
