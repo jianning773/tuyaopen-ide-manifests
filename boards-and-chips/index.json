@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "domain": "boardsAndChips",
-  "publishedAt": "2026-10-19T03:16:07Z",
+  "publishedAt": "2026-10-19T11:22:17Z",
   "items": [
     {
       "id": "tuya-t5-e1",
@@ -1081,8 +1081,8 @@
     {
       "id": "rdk-x5",
       "name": {
-        "en": "RDK X5",
-        "zh-CN": "RDK X5"
+        "en": "RDK X5 Module (SOM)",
+        "zh-CN": "RDK X5 Module（SOM 核心板）"
       },
       "brand": {
         "en": "D-Robotics",
@@ -1096,13 +1096,13 @@
       "variantId": "linux",
       "chip": "X5",
       "summary": {
-        "en": "RDK X5 Module with its carrier board, running Ubuntu AArch64. Cross-compile TuyaOpen applications on the host, then deploy the ELF over SSH. Start with the IoT Switch demo.",
-        "zh-CN": "RDK X5 Module 核心板与配套载板，运行 Ubuntu AArch64。在主机交叉编译 TuyaOpen 应用，通过 SSH 部署 ELF，可从 IoT 开关示例开始。"
+        "en": "Sunrise 5 SOM requiring a carrier board. TuyaOpen cross-compilation and IoT Switch cloud connectivity were validated on X5 MD V1.2 with its reference carrier, running Ubuntu AArch64. Onboard devices below refer to that carrier setup.",
+        "zh-CN": "基于 Sunrise 5 的 SOM 核心板，需配合载板使用。已在 X5 MD V1.2 与配套参考载板的 Ubuntu AArch64 系统上验证 TuyaOpen 交叉编译及 IoT 开关云端连接。下方板载外设信息对应此载板组合。"
       },
       "tags": [
         "linux",
         "ubuntu",
-        "sbc"
+        "som"
       ],
       "image": {
         "url": "images/rdk-x5/rdk-x5.jpg"
