@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "domain": "boardsAndChips",
-  "publishedAt": "2026-10-19T12:31:00Z",
+  "publishedAt": "2026-10-20T03:19:36Z",
   "items": [
     {
       "id": "tuya-t5-e1",
@@ -1084,13 +1084,13 @@
         "en": "RDK X5 SOM",
         "zh-CN": "RDK X5 SOM"
       },
-      "manufacturer": "嘀拍",
+      "manufacturer": "狄拍",
       "platformId": "linux",
       "variantId": "linux",
       "chip": "X5",
       "summary": {
         "en": "Dipa expansion board based on the RDK X5 SOM, running Ubuntu AArch64. Cross-compilation and IoT Switch cloud connectivity were validated on the X5 MD V1.2 carrier setup. Onboard devices below refer to this setup.",
-        "zh-CN": "嘀拍基于 RDK X5 SOM 的扩展开发板，运行 Ubuntu AArch64。已在 X5 MD V1.2 载板组合上验证 TuyaOpen 交叉编译及 IoT 开关云端连接，下方板载外设信息对应此组合。"
+        "zh-CN": "狄拍基于 RDK X5 SOM 的扩展开发板，运行 Ubuntu AArch64。已在 X5 MD V1.2 载板组合上验证 TuyaOpen 交叉编译及 IoT 开关云端连接，下方板载外设信息对应此组合。"
       },
       "tags": [
         "linux",
