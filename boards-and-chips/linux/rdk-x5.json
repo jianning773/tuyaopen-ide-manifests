@@ -62,10 +62,7 @@
   },
   "links": {
     "schematic": null,
-    "datasheet": {
-      "en": "https://developer.d-robotics.cc/x5_sdk_doc_v2.0.0/en/quick_start/x5_md_user_guide.html",
-      "zh-CN": "https://developer.d-robotics.cc/x5_sdk_doc/quick_start/x5_md_user_guide.html"
-    },
+    "datasheet": null,
     "productPage": null
   },
   "source": {

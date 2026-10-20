@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "domain": "boardsAndChips",
-  "publishedAt": "2026-10-20T03:19:36Z",
+  "publishedAt": "2026-10-20T03:32:17Z",
   "items": [
     {
       "id": "tuya-t5-e1",
@@ -1081,16 +1081,16 @@
     {
       "id": "rdk-x5",
       "name": {
-        "en": "RDK X5 SOM",
-        "zh-CN": "RDK X5 SOM"
+        "en": "DP-X5 SOM",
+        "zh-CN": "DP-X5 SOM"
       },
       "manufacturer": "狄拍",
       "platformId": "linux",
       "variantId": "linux",
       "chip": "X5",
       "summary": {
-        "en": "Dipa expansion board based on the RDK X5 SOM, running Ubuntu AArch64. Cross-compilation and IoT Switch cloud connectivity were validated on the X5 MD V1.2 carrier setup. Onboard devices below refer to this setup.",
-        "zh-CN": "狄拍基于 RDK X5 SOM 的扩展开发板，运行 Ubuntu AArch64。已在 X5 MD V1.2 载板组合上验证 TuyaOpen 交叉编译及 IoT 开关云端连接，下方板载外设信息对应此组合。"
+        "en": "DP-X5 SOM expansion board by Dipa, based on the RDK X5 Module, running Ubuntu AArch64. Cross-compilation and IoT Switch cloud connectivity were validated on the X5 MD V1.2 carrier setup. Onboard devices below refer to this setup.",
+        "zh-CN": "DP-X5 SOM 是狄拍基于 RDK X5 Module 的扩展开发板，运行 Ubuntu AArch64。已在 X5 MD V1.2 载板组合上验证 TuyaOpen 交叉编译及 IoT 开关云端连接，下方板载外设信息对应此组合。"
       },
       "tags": [
         "linux",
@@ -1120,8 +1120,8 @@
       "variantId": "linux",
       "chip": "X5",
       "summary": {
-        "en": "D-Robotics all-in-one RDK X5 development board with a 40-pin expansion header, running Ubuntu AArch64. Shares the TuyaOpen RDK_X5 build configuration and AArch64 ELF / SSH deployment path with RDK X5 SOM.",
-        "zh-CN": "地瓜机器人原厂 RDK X5 一体式开发板，板载 40Pin 扩展接口，运行 Ubuntu AArch64。与 RDK X5 SOM 共用 TuyaOpen 的 RDK_X5 编译配置及 AArch64 ELF / SSH 部署方式。"
+        "en": "D-Robotics all-in-one RDK X5 development board with a 40-pin expansion header, running Ubuntu AArch64. Shares the TuyaOpen RDK_X5 build configuration and AArch64 ELF / SSH deployment path with DP-X5 SOM.",
+        "zh-CN": "地瓜机器人原厂 RDK X5 一体式开发板，板载 40Pin 扩展接口，运行 Ubuntu AArch64。与 DP-X5 SOM 共用 TuyaOpen 的 RDK_X5 编译配置及 AArch64 ELF / SSH 部署方式。"
       },
       "tags": [
         "linux",
