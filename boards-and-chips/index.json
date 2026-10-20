@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "domain": "boardsAndChips",
-  "publishedAt": "2026-10-20T03:40:17Z",
+  "publishedAt": "2026-10-20T03:45:19Z",
   "items": [
     {
       "id": "tuya-t5-e1",
@@ -1089,8 +1089,8 @@
       "variantId": "linux",
       "chip": "X5",
       "summary": {
-        "en": "Dipa DP-X5 SOM compute module with a Sunrise 5 SoC (8-core Cortex-A55 @1.5GHz, 10 TOPS BPU), 4GB/8GB LPDDR4 and 32GB/64GB eMMC options, Wi-Fi 6 and Bluetooth 5.4. Requires a carrier board; designed for robotics and industrial vision.",
-        "zh-CN": "狄拍 DP-X5 SOM 核心板，搭载 Sunrise 5 八核 Cortex-A55 @1.5GHz 处理器与 10 TOPS BPU，可选 4GB/8GB LPDDR4 内存及 32GB/64GB eMMC 存储，集成 Wi-Fi 6 与蓝牙 5.4。需搭配载板使用，面向机器人、工业视觉等端侧计算应用。"
+        "en": "Dipa DP-X5 SOM compute module based on the D-Robotics X5 (Sunrise 5) SoC (8-core Cortex-A55 @1.5GHz, 10 TOPS BPU), 4GB/8GB LPDDR4 and 32GB/64GB eMMC options, Wi-Fi 6 and Bluetooth 5.4. Requires a carrier board; designed for robotics and industrial vision.",
+        "zh-CN": "狄拍 DP-X5 SOM 核心板采用地瓜 X5（Sunrise 5）芯片，配备八核 Cortex-A55 @1.5GHz CPU 与 10 TOPS BPU，可选 4GB/8GB LPDDR4 内存及 32GB/64GB eMMC 存储，集成 Wi-Fi 6 与蓝牙 5.4。需搭配载板使用，面向机器人、工业视觉等端侧计算应用。"
       },
       "tags": [
         "linux",
